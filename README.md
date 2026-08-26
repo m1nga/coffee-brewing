@@ -79,7 +79,7 @@ Probed 7 scenarios across 6 personas · 5 fired correctly · 2 correctly stayed 
 > **"Save this bean to memory"** *(in a sandbox with no writable home directory)*
 > → No fake "saved!": it says so once, keeps the profile in-conversation, and hands you the finished entry as a copyable block.
 
-Probe method: [scenario-probe](https://github.com/m1nga/scenario-probe)
+Probe method: [scenario-probe](https://github.com/m1nga/scenario-probe/)
 
 ## Author
 
